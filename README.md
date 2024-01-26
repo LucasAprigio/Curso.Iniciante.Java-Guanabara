@@ -1,0 +1,1 @@
+- Aqui nesse repositório ficará junto de exercícios Anotações minhas referente ao curso de JAVA PARA INICIANTES, do Guanabara.
