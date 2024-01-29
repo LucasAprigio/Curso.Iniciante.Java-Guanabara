@@ -1,4 +1,4 @@
-# Curso de JAVA (INICIANTE)
+# Curso de JAVA (BÁSICO)
 
 
 > Aqui nesse repositório ficará exercícios e Anotações feitos em referencia ao curso de JAVA PARA INICIANTES, do Guanabara.
